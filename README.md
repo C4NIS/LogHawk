@@ -1,4 +1,3 @@
-```markdown
 # LogHawk
 
 LogHawk é uma poderosa ferramenta de análise de logs em terminal, desenvolvida em Python, que facilita a importação, filtragem, visualização e exportação de logs. Ideal para profissionais de TI e segurança, o LogHawk oferece uma interface intuitiva e modular, suportando diversos formatos de logs e permitindo fácil customização e extensão.
@@ -96,5 +95,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Para mais informações, entre em contato:
 
-- **LinkedIn:** [Aqui][(https://www.linkedin.com/in/933d13b9/)
+- **LinkedIn:** https://www.linkedin.com/in/933d13b9/
 - **GitHub:** [C4NIS](https://github.com/C4NIS)
