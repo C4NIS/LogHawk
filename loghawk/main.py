@@ -8,6 +8,8 @@ def main():
     # Parsing de argumentos da linha de comando
     args = cli.parse_arguments()
 
+    print("Argumentos recebidos:", args)
+
     # Lógica de execução com base nos comandos
     if args.command == "import":
         logs = parser.import_logs(args.file)
